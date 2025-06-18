@@ -1,0 +1,31 @@
+Privacy Policy for AllTrails Real Time Permit Checker
+
+Last updated: June 17, 2025
+
+This privacy policy describes how AllTrails Real Time Permit Checker ("we", "our", or "the extension") collects, uses, and shares user data.
+
+Data Collection and Use:
+- The extension collects and stores user preferences such as permit dates, group sizes and whether you want to only see trails with available permits.
+- The extension reads information from AllTrails pages you visit to identify trails and display permit information.
+- The extension makes API calls to permit reservation systems to check real-time availability.
+
+Data Storage:
+- All user preferences are stored locally on your device using Chrome's storage API.
+- No user data is transmitted to our servers.
+
+Data Sharing:
+- The extension does not share your personal data with any third parties.
+- API calls to permit systems only request availability information and do not send personal user data.
+
+Data Retention:
+- User preferences are stored until you uninstall the extension or clear your browser data.
+
+User Rights:
+- You can view and modify your stored preferences through the extension interface.
+- You can delete all stored data by uninstalling the extension or clearing your browser data.
+
+Changes to This Policy:
+- We may update this privacy policy from time to time. We will notify users of any changes by updating the "Last updated" date.
+
+Contact:
+- If you have questions about this privacy policy, please contact serengupt@gmail.com.
